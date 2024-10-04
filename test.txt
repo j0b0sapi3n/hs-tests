@@ -1,1 +1,2 @@
 e66519b8-1312-448b-b4df-df4f5549fc5d
+hapikey=827d83a2-ccef-474e-8887-b78dc513ed24
